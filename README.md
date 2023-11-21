@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![42 Project Score](https://42-project-badge.glitch.me/users/ehay/project/libft)](https://github.com/ricardoreves/42-project-badge)
+[![<ehay>'s 42 stats](https://badge.mediaplus.ma/<ketterbels>/<username>)](https://github.com/oakoudad/badge42)
 
 <!--
 **Banes-dev/Banes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

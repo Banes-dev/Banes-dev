@@ -4,16 +4,16 @@
 👨‍💻 I'm actually learning C and C++
 
 
-###📩 Contact me :
+### 📩 Contact me :
 
 
-###🎨 My languagues : 
+### 🎨 My languagues : 
 
 
-###📊 Github Stats : 
+### 📊 Github Stats : 
 
 
-###🧩 My application : 
+### 🧩 My application : 
 
 <!--
 **Banes-dev/Banes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

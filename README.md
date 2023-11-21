@@ -7,7 +7,7 @@
 
 
 ## 📩 Contact me :
-![DISCORD](https://dcbadge.vercel.app/api/shield/532959488722862081?style=flat?compact=true?logoColor=ffff00)
+![DISCORD](https://dcbadge.vercel.app/api/shield/532959488722862081?compact=true?logoColor=ffff00)
 
 
 

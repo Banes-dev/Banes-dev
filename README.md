@@ -21,7 +21,7 @@
 
 
 ## 📊 Github Stats : 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Banes-dev&show_icons=true&theme=defaut)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Banes-dev&show_icons=true&theme=transparent&title_color=#ffff00)
 
 
 

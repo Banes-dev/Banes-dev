@@ -1,16 +1,21 @@
 # Banes-dev on Github
 
 🏫 Curently at 42 Le Havre
+
 👨‍💻 I'm actually learning C and C++
+
 
 
 ## 📩 Contact me :
 
 
+
 ## 🎨 My languagues : 
 
 
+
 ## 📊 Github Stats : 
+
 
 
 ## 🧩 My application : 

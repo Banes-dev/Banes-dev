@@ -8,8 +8,8 @@
 
 ## 📩 Contact me :
 ![DISCORD](https://dcbadge.vercel.app/api/shield/532959488722862081?compact=true?logoColor=ffff00)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMzPNWWQtGZPFQVKtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh)
-![Youtube](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?color=red?logoColor=ffff00?style=flat-square)(https://www.youtube.com/channel/UCVT5ylMiLgPYminfV4QjgTA)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMzPNWWQtGZPFQVKtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh)
+[![Youtube](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?color=red?logoColor=ffff00?style=flat-square)](https://www.youtube.com/channel/UCVT5ylMiLgPYminfV4QjgTA)
 
 
 

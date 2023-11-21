@@ -1,6 +1,6 @@
 # Banes-dev on Github
 
-%🏫 Curently at 42 Le Havre
+🏫 Curently at 42 Le Havre
 
 👨‍💻 I'm actually learning C and C++
 
@@ -25,7 +25,7 @@
 
 ## 📊 Github Stats : 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Banes-dev&show_icons=true&theme=transparent&title_color=2f80ed&icon_color=ffff00&border_color=ffff00&text_color=ffffff#gh-dark-mode-only)
-![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Banes-dev&show_icons=true&theme=transparent&title_color=2f80ed&icon_color=ffff00&border_color=ffff00&text_color=000000#gh-light-mode-only)
+/*![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Banes-dev&show_icons=true&theme=transparent&title_color=2f80ed&icon_color=ffff00&border_color=ffff00&text_color=000000#gh-light-mode-only)*/
 
 ![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Banes-dev&show_icons=true&theme=transparent&title_color=2f80ed&icon_color=ffff00&border_color=ffff00&text_color=ffffff#gh-dark-mode-only)
 ![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Banes-dev&show_icons=true&theme=transparent&title_color=2f80ed&icon_color=ffff00&border_color=ffff00&text_color=000000#gh-light-mode-only)

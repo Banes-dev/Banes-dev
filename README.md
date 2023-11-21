@@ -1,6 +1,6 @@
 # Banes-dev on Github
 
-🏫 Curently at 42 Le Havre
+%🏫 Curently at 42 Le Havre
 
 👨‍💻 I'm actually learning C and C++
 

@@ -23,8 +23,8 @@
 ## 📊 Github Stats : 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Banes-dev&show_icons=true&theme=transparent&title_color=ffff00&icon_color=ffff00&border_color=ffff00&text_color=ffff00)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Banes-dev&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only&title_color=ffff00&icon_color=ffff00&border_color=ffff00&text_color=ffffff)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Banes-dev&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only&title_color=ffff00&icon_color=ffff00&border_color=ffff00&text_color=000000)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Banes-dev&show_icons=true&theme=transparent&title_color=ffff00&icon_color=ffff00&border_color=ffff00&text_color=ffffff#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Banes-dev&show_icons=true&theme=transparent&title_color=ffff00&icon_color=ffff00&border_color=ffff00&text_color=000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 

@@ -50,4 +50,6 @@
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 
-[![Compteurdevue](https://visitcount.itsvg.in/api?id=Banes-dev&label=Vues%20du%20profil&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+
+[![](https://visitcount.itsvg.in/api?id=Banes-dev&label=Vues%20du%20profil&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)

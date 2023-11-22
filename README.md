@@ -52,4 +52,4 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=Banes-dev&label=Vues%20du%20profil&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![Compteurdevue](https://visitcount.itsvg.in/api?id=Banes-dev&label=Vues%20du%20profil&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)

@@ -5,7 +5,7 @@
 
 🏫 Curently at 42 Le Havre
 
-👨‍💻 I'm actually learning C and C++
+👨‍💻 I'm actually learning C++ and C
 
 
 

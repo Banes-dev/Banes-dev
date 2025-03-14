@@ -21,7 +21,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMzPNWWQtGZPFQVKtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white)]([https://www.youtube.com/channel/UCVT5ylMiLgPYminfV4QjgTA](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMzPNWWQtGZPFQVKtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMzPNWWQtGZPFQVKtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh)
 
 
 

@@ -5,7 +5,9 @@
 
 🏫 Curently at 42 Le Havre
 
-👨‍💻 I'm actually learning C++ and C
+🔎 Search for a C++ internship
+
+👨‍💻 I'm actually learning C++ and React
 
 
 

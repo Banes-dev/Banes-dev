@@ -55,4 +55,5 @@
 
 
 ### ↓ Views ↓
-[![Compteurdevue](https://visitcount.itsvg.in/api?id=Banes-dev&label=Vues%20du%20profil&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![Compteurdevue](https://komarev.com/ghpvc/?username=your-github-username)
+[![Compteurdevue_old](https://visitcount.itsvg.in/api?id=Banes-dev&label=Vues%20du%20profil&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)

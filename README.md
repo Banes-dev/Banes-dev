@@ -12,9 +12,7 @@
 
 
 ## 🎨 My languagues : 
-![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,react,vue,tailwind,nextjs,vite,npm,mysql,git,docker&perline=6)
-
-![My Skills2](https://skillicons.dev/icons?i=cpp,c,lua,react,vue,tailwind,nextjs,vite,npm,mysql,git,docker&perline=6&theme=light)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,react,vue,tailwind,nextjs,vite,npm,bash,mysql,git,docker&perline=7)
 
 
 ## 📊 Github Stats : 
@@ -26,22 +24,11 @@
 
 
 ## 🧩 My application : 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-
 ![OS](https://skillicons.dev/icons?i=windows,linux,ubuntu,apple&perline=4)
-![OS2](https://skillicons.dev/icons?i=windows,linux,ubuntu,apple&perline=4&theme=light)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![APP](https://skillicons.dev/icons?i=vscode,github,unreal,unity,qt,vercel&perline=6)
 
-![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
-![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
-![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![OTHER_APP](https://skillicons.dev/icons?i=ps,figma,raspberrypi,stackoverflow&perline=4)
 
 
 ## 📩 Contact me

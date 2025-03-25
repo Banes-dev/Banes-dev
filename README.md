@@ -12,8 +12,9 @@
 
 
 ## 🎨 My languagues : 
-![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,react,vue,tailwind,nextjs,vite,npm,mysql,git,docker&perline=7)
-![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,react,vue,tailwind,nextjs,vite,npm,mysql,git,docker&perline=7&theme=light)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,react,vue,tailwind,nextjs,vite,npm,mysql,git,docker&perline=6)
+
+![My Skills2](https://skillicons.dev/icons?i=cpp,c,lua,react,vue,tailwind,nextjs,vite,npm,mysql,git,docker&perline=6&theme=light)
 
 
 ## 📊 Github Stats : 
@@ -28,7 +29,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-![OS](https://skillicons.dev/icons?i=windows,linux,apple&perline=3&theme=light)
+
+![OS](https://skillicons.dev/icons?i=windows,linux,ubuntu,apple&perline=4)
+![OS2](https://skillicons.dev/icons?i=windows,linux,ubuntu,apple&perline=4&theme=light)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)

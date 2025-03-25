@@ -12,7 +12,8 @@
 
 
 ## 🎨 My languagues : 
-![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,react,vue,tailwind,nextjs,vite,npm,mysql,git,github,docker&perline=7)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,react,vue,tailwind,nextjs,vite,npm,mysql,git,docker&perline=7)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,react,vue,tailwind,nextjs,vite,npm,mysql,git,docker&perline=7&theme=light)
 
 
 ## 📊 Github Stats : 
@@ -27,6 +28,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![OS](https://skillicons.dev/icons?i=windows,linux,apple&perline=3&theme=light)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -41,9 +43,9 @@
 
 ## 📩 Contact me
 [![DISCORD](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.com/users/532959488722862081)
+[![GMAIL](https://skillicons.dev/icons?i=gmail&theme=light)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMzPNWWQtGZPFQVKtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh)
 [![LINKEDIN](https://skillicons.dev/icons?i=linkedin&theme=light)]([https://discord.com/users/532959488722862081](https://www.linkedin.com/in/esteban-hay-95598a2b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJvkAC021QTSvMCVYqaRYzQ%3D%3D))
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)]([https://www.youtube.com/channel/UCVT5ylMiLgPYminfV4QjgTA](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white))
-[![GMAIL](https://skillicons.dev/icons?i=gmail&theme=light)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMzPNWWQtGZPFQVKtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh)
 
 
 ### ↓ Views ↓

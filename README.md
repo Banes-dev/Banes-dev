@@ -11,33 +11,8 @@
 
 
 
-## 📩 Contact me
-![DISCORD](https://dcbadge.vercel.app/api/shield/532959488722862081?compact=true?logoColor=ffff00)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-hay-95598a2b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJvkAC021QTSvMCVYqaRYzQ%3D%3D)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMzPNWWQtGZPFQVKtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCVT5ylMiLgPYminfV4QjgTA)
-
-[![DISCORD](https://img.shields.io/badge/Discord-7289DA?logoSize=60?style=flat&logo=discord&logoColor=white)](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMzPNWWQtGZPFQVKtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white)]([https://www.youtube.com/channel/UCVT5ylMiLgPYminfV4QjgTA](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMzPNWWQtGZPFQVKtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh)
-
-[![DISCORD](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.com/users/532959488722862081)
-[![YOUTUBE](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.com/users/532959488722862081)
-[![GMAIL](https://skillicons.dev/icons?i=gmail&theme=light)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMzPNWWQtGZPFQVKtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh)
-
-
-
 ## 🎨 My languagues : 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,react,vue,tailwind,nextjs,vite,npm,mysql,git,github,docker&perline=7)
-
 
 
 ## 📊 Github Stats : 
@@ -49,7 +24,6 @@
 
 
 ## 🧩 My application : 
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
@@ -63,6 +37,13 @@
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+
+
+## 📩 Contact me
+[![DISCORD](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.com/users/532959488722862081)
+[![LINKEDIN](https://skillicons.dev/icons?i=linkedin&theme=light)]([https://discord.com/users/532959488722862081](https://www.linkedin.com/in/esteban-hay-95598a2b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJvkAC021QTSvMCVYqaRYzQ%3D%3D))
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)]([https://www.youtube.com/channel/UCVT5ylMiLgPYminfV4QjgTA](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white))
+[![GMAIL](https://skillicons.dev/icons?i=gmail&theme=light)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMzPNWWQtGZPFQVKtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh)
 
 
 ### ↓ Views ↓

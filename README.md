@@ -37,6 +37,34 @@
 [![LINKEDIN](https://skillicons.dev/icons?i=linkedin&theme=light)]([https://discord.com/users/532959488722862081](https://www.linkedin.com/in/esteban-hay-95598a2b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJvkAC021QTSvMCVYqaRYzQ%3D%3D)) &nbsp;&nbsp;&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)]([https://www.youtube.com/channel/UCVT5ylMiLgPYminfV4QjgTA](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white))
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://discord.com/users/532959488722862081">
+        <img src="https://skillicons.dev/icons?i=discord&theme=light" alt="Discord">
+      </a>
+    </td>
+    <td width="30"></td>
+    <td align="center">
+      <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMzPNWWQtGZPFQVKtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail">
+      </a>
+    </td>
+    <td width="30"></td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/esteban-hay-95598a2b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJvkAC021QTSvMCVYqaRYzQ%3D%3D">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn">
+      </a>
+    </td>
+    <td width="30"></td>
+    <td align="center">
+      <a href="https://www.youtube.com/channel/UCVT5ylMiLgPYminfV4QjgTA">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ### ↓ Views ↓
 ![Compteurdevue](https://komarev.com/ghpvc/?username=Banes-dev&color=yellow&style=flat&base=242&abbreviated=true)

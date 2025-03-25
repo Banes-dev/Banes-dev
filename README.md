@@ -36,7 +36,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,react,vue,tailwind,nextjs,vitemnpm,sheel,mysql,git,github,docker&perline=8)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,react,vue,tailwind,nextjs,vite,npm,sheel,mysql,git,github,docker&perline=8)
 
 
 

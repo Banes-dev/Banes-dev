@@ -34,7 +34,7 @@
 ## 📩 Contact me
 [![DISCORD](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.com/users/532959488722862081) &nbsp;&nbsp;&nbsp;
 [![GMAIL](https://skillicons.dev/icons?i=gmail&theme=light)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMzPNWWQtGZPFQVKtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh) &nbsp;&nbsp;&nbsp;
-[![LINKEDIN](https://skillicons.dev/icons?i=linkedin&theme=light)]([https://discord.com/users/532959488722862081](https://www.linkedin.com/in/esteban-hay-95598a2b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJvkAC021QTSvMCVYqaRYzQ%3D%3D)) &nbsp;&nbsp;&nbsp;
+<!-- [![LINKEDIN](https://skillicons.dev/icons?i=linkedin&theme=light)]([https://discord.com/users/532959488722862081](https://www.linkedin.com/in/esteban-hay-95598a2b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJvkAC021QTSvMCVYqaRYzQ%3D%3D)) &nbsp;&nbsp;&nbsp; -->
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)]([https://www.youtube.com/channel/UCVT5ylMiLgPYminfV4QjgTA](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white))
 
 

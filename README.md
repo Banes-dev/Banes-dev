@@ -5,7 +5,7 @@
 
 🏫 Curently at 42 Le Havre
 
-🔎 Search for a C++ internship
+🔎 Looking for a work-study program in C++
 
 👨‍💻 I'm actually learning C++ and React
 

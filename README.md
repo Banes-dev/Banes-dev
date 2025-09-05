@@ -26,7 +26,7 @@
 ## 🧩 My application : 
 ![OS](https://skillicons.dev/icons?i=windows,linux,ubuntu,apple&perline=4)
 
-![APP](https://skillicons.dev/icons?i=vscode,github,unreal,unity,qt,vercel&perline=6)
+![APP](https://skillicons.dev/icons?i=vscode,rider,github,unreal,unity,qt,vercel&perline=7)
 
 ![OTHER_APP](https://skillicons.dev/icons?i=ps,figma,raspberrypi,stackoverflow&perline=4)
 

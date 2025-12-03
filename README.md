@@ -20,7 +20,8 @@
 <!-- ![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Banes-dev&show_icons=true&theme=transparent&title_color=2f80ed&icon_color=ffff00&border_color=ffff00&text_color=000000#gh-light-mode-only)-->
 
 ![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Banes-dev&show_icons=true&theme=transparent&title_color=2f80ed&icon_color=ffff00&border_color=ffff00&text_color=ffffff#gh-dark-mode-only)
-![Top Langs-Dark](https://streak-stats.demolab.com/?username=Banes-dev&show_icons=true&theme=transparent&title_color=2f80ed&icon_color=ffff00&border_color=ffff00&text_color=ffffff#gh-dark-mode-only)
+
+![Top Langs-Dark](https://streak-stats.demolab.com/?user=Banes-dev&show_icons=true&theme=transparent&title_color=2f80ed&icon_color=ffff00&border_color=ffff00&text_color=ffffff#gh-dark-mode-only)
 <!--![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Banes-dev&show_icons=true&theme=transparent&title_color=2f80ed&icon_color=ffff00&border_color=ffff00&text_color=000000#gh-light-mode-only)-->
 
 

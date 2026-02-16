@@ -12,7 +12,7 @@
 
 
 ## 🎨 My languagues : 
-![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,react,vue,tailwind,nextjs,vite,npm,bash,mysql,git,docker&perline=7)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,react,vue,tailwind,js,nextjs,vite,npm,bash,mysql,git,docker&perline=8)
 
 
 ## 📊 Github Stats : 
@@ -24,11 +24,11 @@
 
 
 ## 🧩 My application : 
-![OS](https://skillicons.dev/icons?i=windows,linux,ubuntu,apple&perline=4)
+![OS](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,raspberrypi,apple&perline=5)
 
-![APP](https://skillicons.dev/icons?i=vscode,rider,github,unreal,unity,qt,vercel&perline=7)
+![APP](https://skillicons.dev/icons?i=vscode,rider,github,unreal,unity,qt,=&perline=6)
 
-![OTHER_APP](https://skillicons.dev/icons?i=ps,figma,raspberrypi,stackoverflow&perline=4)
+![OTHER_APP](https://skillicons.dev/icons?i=notion,ps,figma,md,stackoverflow&perline=4)
 
 
 ## 📩 Contact me

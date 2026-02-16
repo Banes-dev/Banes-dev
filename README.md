@@ -24,11 +24,11 @@
 
 
 ## 🧩 My application : 
-![OS](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,raspberrypi,apple&perline=5)
+![OS](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,raspberrypi,apple&perline=6)
 
 ![APP](https://skillicons.dev/icons?i=vscode,rider,github,unreal,unity,qt,=&perline=6)
 
-![OTHER_APP](https://skillicons.dev/icons?i=notion,ps,figma,md,stackoverflow&perline=4)
+![OTHER_APP](https://skillicons.dev/icons?i=notion,md,ps,figma,stackoverflow&perline=5)
 
 
 ## 📩 Contact me

@@ -1,0 +1,870 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-20T22:57:22.86649569Z",
+  "collected_at": "2026-11-20T22:57:16.582027463Z",
+  "login": "Banes-dev",
+  "totals": {
+    "repos": 35,
+    "public_repos": 27,
+    "private_repos": 8,
+    "stars": 1,
+    "forks": 0,
+    "followers": 9
+  },
+  "languages": {
+    "mode": "raw",
+    "raw": [
+      {
+        "name": "C",
+        "bytes": 22345932,
+        "weighted": 22345932,
+        "share": 0.7934212234822577
+      },
+      {
+        "name": "C++",
+        "bytes": 2599115,
+        "weighted": 2599115,
+        "share": 0.09228494042097185
+      },
+      {
+        "name": "Objective-C",
+        "bytes": 740318,
+        "weighted": 740318,
+        "share": 0.02628594830262341
+      },
+      {
+        "name": "Shell",
+        "bytes": 414812,
+        "weighted": 414812,
+        "share": 0.014728436681679793
+      },
+      {
+        "name": "M4",
+        "bytes": 320868,
+        "weighted": 320868,
+        "share": 0.011392833430993394
+      },
+      {
+        "name": "CMake",
+        "bytes": 273808,
+        "weighted": 273808,
+        "share": 0.009721907251808966
+      },
+      {
+        "name": "JavaScript",
+        "bytes": 231457,
+        "weighted": 231457,
+        "share": 0.008218180209423932
+      },
+      {
+        "name": "Lua",
+        "bytes": 227596,
+        "weighted": 227596,
+        "share": 0.008081090409640015
+      },
+      {
+        "name": "Java",
+        "bytes": 206300,
+        "weighted": 206300,
+        "share": 0.007324948380062634
+      },
+      {
+        "name": "C#",
+        "bytes": 202786,
+        "weighted": 202786,
+        "share": 0.007200179264175381
+      },
+      {
+        "name": "Perl",
+        "bytes": 154248,
+        "weighted": 154248,
+        "share": 0.005476774782975769
+      },
+      {
+        "name": "Python",
+        "bytes": 103149,
+        "weighted": 103149,
+        "share": 0.0036624386837376664
+      },
+      {
+        "name": "ShaderLab",
+        "bytes": 80492,
+        "weighted": 80492,
+        "share": 0.0028579725885021887
+      },
+      {
+        "name": "Makefile",
+        "bytes": 79762,
+        "weighted": 79762,
+        "share": 0.0028320529941374493
+      },
+      {
+        "name": "Roff",
+        "bytes": 53256,
+        "weighted": 53256,
+        "share": 0.0018909231746418597
+      },
+      {
+        "name": "Assembly",
+        "bytes": 36130,
+        "weighted": 36130,
+        "share": 0.001282842389586345
+      },
+      {
+        "name": "HLSL",
+        "bytes": 31044,
+        "weighted": 31044,
+        "share": 0.0011022573800807775
+      },
+      {
+        "name": "HTML",
+        "bytes": 22806,
+        "weighted": 22806,
+        "share": 0.0008097565329893767
+      },
+      {
+        "name": "TypeScript",
+        "bytes": 21583,
+        "weighted": 21583,
+        "share": 0.0007663323358550259
+      },
+      {
+        "name": "Dockerfile",
+        "bytes": 4701,
+        "weighted": 4701,
+        "share": 0.00016691508645019117
+      },
+      {
+        "name": "CSS",
+        "bytes": 4087,
+        "weighted": 4087,
+        "share": 0.0001451142221488899
+      },
+      {
+        "name": "Batchfile",
+        "bytes": 3701,
+        "weighted": 3701,
+        "share": 0.00013140879279986334
+      },
+      {
+        "name": "Metal",
+        "bytes": 3691,
+        "weighted": 3691,
+        "share": 0.00013105372986336008
+      },
+      {
+        "name": "Rust",
+        "bytes": 2037,
+        "weighted": 2037,
+        "share": 0.00007232632016571782
+      },
+      {
+        "name": "Swift",
+        "bytes": 342,
+        "weighted": 342,
+        "share": 0.000012143152428412122
+      }
+    ],
+    "adjusted": [
+      {
+        "name": "C",
+        "bytes": 22345932,
+        "weighted": 22345932,
+        "share": 0.7934212234822577
+      },
+      {
+        "name": "C++",
+        "bytes": 2599115,
+        "weighted": 2599115,
+        "share": 0.09228494042097185
+      },
+      {
+        "name": "Objective-C",
+        "bytes": 740318,
+        "weighted": 740318,
+        "share": 0.02628594830262341
+      },
+      {
+        "name": "Shell",
+        "bytes": 414812,
+        "weighted": 414812,
+        "share": 0.014728436681679793
+      },
+      {
+        "name": "M4",
+        "bytes": 320868,
+        "weighted": 320868,
+        "share": 0.011392833430993394
+      },
+      {
+        "name": "CMake",
+        "bytes": 273808,
+        "weighted": 273808,
+        "share": 0.009721907251808966
+      },
+      {
+        "name": "JavaScript",
+        "bytes": 231457,
+        "weighted": 231457,
+        "share": 0.008218180209423932
+      },
+      {
+        "name": "Lua",
+        "bytes": 227596,
+        "weighted": 227596,
+        "share": 0.008081090409640015
+      },
+      {
+        "name": "Java",
+        "bytes": 206300,
+        "weighted": 206300,
+        "share": 0.007324948380062634
+      },
+      {
+        "name": "C#",
+        "bytes": 202786,
+        "weighted": 202786,
+        "share": 0.007200179264175381
+      },
+      {
+        "name": "Perl",
+        "bytes": 154248,
+        "weighted": 154248,
+        "share": 0.005476774782975769
+      },
+      {
+        "name": "Python",
+        "bytes": 103149,
+        "weighted": 103149,
+        "share": 0.0036624386837376664
+      },
+      {
+        "name": "ShaderLab",
+        "bytes": 80492,
+        "weighted": 80492,
+        "share": 0.0028579725885021887
+      },
+      {
+        "name": "Makefile",
+        "bytes": 79762,
+        "weighted": 79762,
+        "share": 0.0028320529941374493
+      },
+      {
+        "name": "Roff",
+        "bytes": 53256,
+        "weighted": 53256,
+        "share": 0.0018909231746418597
+      },
+      {
+        "name": "Assembly",
+        "bytes": 36130,
+        "weighted": 36130,
+        "share": 0.001282842389586345
+      },
+      {
+        "name": "HLSL",
+        "bytes": 31044,
+        "weighted": 31044,
+        "share": 0.0011022573800807775
+      },
+      {
+        "name": "HTML",
+        "bytes": 22806,
+        "weighted": 22806,
+        "share": 0.0008097565329893767
+      },
+      {
+        "name": "TypeScript",
+        "bytes": 21583,
+        "weighted": 21583,
+        "share": 0.0007663323358550259
+      },
+      {
+        "name": "Dockerfile",
+        "bytes": 4701,
+        "weighted": 4701,
+        "share": 0.00016691508645019117
+      },
+      {
+        "name": "CSS",
+        "bytes": 4087,
+        "weighted": 4087,
+        "share": 0.0001451142221488899
+      },
+      {
+        "name": "Batchfile",
+        "bytes": 3701,
+        "weighted": 3701,
+        "share": 0.00013140879279986334
+      },
+      {
+        "name": "Metal",
+        "bytes": 3691,
+        "weighted": 3691,
+        "share": 0.00013105372986336008
+      },
+      {
+        "name": "Rust",
+        "bytes": 2037,
+        "weighted": 2037,
+        "share": 0.00007232632016571782
+      },
+      {
+        "name": "Swift",
+        "bytes": 342,
+        "weighted": 342,
+        "share": 0.000012143152428412122
+      }
+    ],
+    "display": [
+      {
+        "name": "C",
+        "bytes": 22345932,
+        "weighted": 22345932,
+        "share": 0.7934212234822577
+      },
+      {
+        "name": "C++",
+        "bytes": 2599115,
+        "weighted": 2599115,
+        "share": 0.09228494042097185
+      },
+      {
+        "name": "Objective-C",
+        "bytes": 740318,
+        "weighted": 740318,
+        "share": 0.02628594830262341
+      },
+      {
+        "name": "Shell",
+        "bytes": 414812,
+        "weighted": 414812,
+        "share": 0.014728436681679793
+      },
+      {
+        "name": "M4",
+        "bytes": 320868,
+        "weighted": 320868,
+        "share": 0.011392833430993394
+      },
+      {
+        "name": "CMake",
+        "bytes": 273808,
+        "weighted": 273808,
+        "share": 0.009721907251808966
+      },
+      {
+        "name": "JavaScript",
+        "bytes": 231457,
+        "weighted": 231457,
+        "share": 0.008218180209423932
+      },
+      {
+        "name": "Lua",
+        "bytes": 227596,
+        "weighted": 227596,
+        "share": 0.008081090409640015
+      },
+      {
+        "name": "Other",
+        "bytes": 1010115,
+        "weighted": 1010115,
+        "share": 0.0358654398106009
+      }
+    ],
+    "multipliers": {},
+    "hidden_share": "other"
+  },
+  "distribution": [
+    {
+      "channel": "release_assets",
+      "count": 0,
+      "window": "all_time",
+      "reliability": "observed",
+      "note": "GitHub Release assets only"
+    },
+    {
+      "channel": "clones",
+      "count": 151,
+      "window": "last_14_days",
+      "reliability": "observed",
+      "note": "summed across repositories; unique visitors are not summed"
+    },
+    {
+      "channel": "clones",
+      "count": 160,
+      "window": "since:2026-10-23",
+      "reliability": "observed"
+    },
+    {
+      "channel": "views",
+      "count": 12,
+      "window": "last_14_days",
+      "reliability": "observed",
+      "note": "summed across repositories; unique visitors are not summed"
+    },
+    {
+      "channel": "views",
+      "count": 14,
+      "window": "since:2026-10-23",
+      "reliability": "observed"
+    },
+    {
+      "channel": "source_archives",
+      "count": null,
+      "window": "all_time",
+      "reliability": "unavailable",
+      "note": "GitHub exposes no download counter for source archives"
+    }
+  ],
+  "trends": [
+    {
+      "channel": "clones",
+      "weeks": [
+        {
+          "start": "2026-05-25",
+          "count": 0
+        },
+        {
+          "start": "2026-06-01",
+          "count": 0
+        },
+        {
+          "start": "2026-06-08",
+          "count": 0
+        },
+        {
+          "start": "2026-06-15",
+          "count": 0
+        },
+        {
+          "start": "2026-06-22",
+          "count": 0
+        },
+        {
+          "start": "2026-06-29",
+          "count": 0
+        },
+        {
+          "start": "2026-07-06",
+          "count": 0
+        },
+        {
+          "start": "2026-07-13",
+          "count": 0
+        },
+        {
+          "start": "2026-07-20",
+          "count": 0
+        },
+        {
+          "start": "2026-07-27",
+          "count": 0
+        },
+        {
+          "start": "2026-08-03",
+          "count": 0
+        },
+        {
+          "start": "2026-08-10",
+          "count": 0
+        },
+        {
+          "start": "2026-08-17",
+          "count": 0
+        },
+        {
+          "start": "2026-08-24",
+          "count": 0
+        },
+        {
+          "start": "2026-08-31",
+          "count": 0
+        },
+        {
+          "start": "2026-09-07",
+          "count": 0
+        },
+        {
+          "start": "2026-09-14",
+          "count": 0
+        },
+        {
+          "start": "2026-09-21",
+          "count": 0
+        },
+        {
+          "start": "2026-09-28",
+          "count": 0
+        },
+        {
+          "start": "2026-10-05",
+          "count": 0
+        },
+        {
+          "start": "2026-10-12",
+          "count": 0
+        },
+        {
+          "start": "2026-10-19",
+          "count": 3
+        },
+        {
+          "start": "2026-10-26",
+          "count": 0
+        },
+        {
+          "start": "2026-11-02",
+          "count": 39
+        },
+        {
+          "start": "2026-11-09",
+          "count": 67
+        },
+        {
+          "start": "2026-11-16",
+          "count": 51
+        }
+      ],
+      "days": [
+        {
+          "day": "2026-10-24",
+          "count": 0
+        },
+        {
+          "day": "2026-10-25",
+          "count": 2
+        },
+        {
+          "day": "2026-10-26",
+          "count": 0
+        },
+        {
+          "day": "2026-10-27",
+          "count": 0
+        },
+        {
+          "day": "2026-10-28",
+          "count": 0
+        },
+        {
+          "day": "2026-10-29",
+          "count": 0
+        },
+        {
+          "day": "2026-10-30",
+          "count": 0
+        },
+        {
+          "day": "2026-10-31",
+          "count": 0
+        },
+        {
+          "day": "2026-11-01",
+          "count": 0
+        },
+        {
+          "day": "2026-11-02",
+          "count": 0
+        },
+        {
+          "day": "2026-11-03",
+          "count": 0
+        },
+        {
+          "day": "2026-11-04",
+          "count": 0
+        },
+        {
+          "day": "2026-11-05",
+          "count": 0
+        },
+        {
+          "day": "2026-11-06",
+          "count": 6
+        },
+        {
+          "day": "2026-11-07",
+          "count": 16
+        },
+        {
+          "day": "2026-11-08",
+          "count": 17
+        },
+        {
+          "day": "2026-11-09",
+          "count": 17
+        },
+        {
+          "day": "2026-11-10",
+          "count": 13
+        },
+        {
+          "day": "2026-11-11",
+          "count": 11
+        },
+        {
+          "day": "2026-11-12",
+          "count": 19
+        },
+        {
+          "day": "2026-11-13",
+          "count": 3
+        },
+        {
+          "day": "2026-11-14",
+          "count": 4
+        },
+        {
+          "day": "2026-11-15",
+          "count": 0
+        },
+        {
+          "day": "2026-11-16",
+          "count": 1
+        },
+        {
+          "day": "2026-11-17",
+          "count": 0
+        },
+        {
+          "day": "2026-11-18",
+          "count": 19
+        },
+        {
+          "day": "2026-11-19",
+          "count": 31
+        },
+        {
+          "day": "2026-11-20",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "channel": "views",
+      "weeks": [
+        {
+          "start": "2026-05-25",
+          "count": 0
+        },
+        {
+          "start": "2026-06-01",
+          "count": 0
+        },
+        {
+          "start": "2026-06-08",
+          "count": 0
+        },
+        {
+          "start": "2026-06-15",
+          "count": 0
+        },
+        {
+          "start": "2026-06-22",
+          "count": 0
+        },
+        {
+          "start": "2026-06-29",
+          "count": 0
+        },
+        {
+          "start": "2026-07-06",
+          "count": 0
+        },
+        {
+          "start": "2026-07-13",
+          "count": 0
+        },
+        {
+          "start": "2026-07-20",
+          "count": 0
+        },
+        {
+          "start": "2026-07-27",
+          "count": 0
+        },
+        {
+          "start": "2026-08-03",
+          "count": 0
+        },
+        {
+          "start": "2026-08-10",
+          "count": 0
+        },
+        {
+          "start": "2026-08-17",
+          "count": 0
+        },
+        {
+          "start": "2026-08-24",
+          "count": 0
+        },
+        {
+          "start": "2026-08-31",
+          "count": 0
+        },
+        {
+          "start": "2026-09-07",
+          "count": 0
+        },
+        {
+          "start": "2026-09-14",
+          "count": 0
+        },
+        {
+          "start": "2026-09-21",
+          "count": 0
+        },
+        {
+          "start": "2026-09-28",
+          "count": 0
+        },
+        {
+          "start": "2026-10-05",
+          "count": 0
+        },
+        {
+          "start": "2026-10-12",
+          "count": 0
+        },
+        {
+          "start": "2026-10-19",
+          "count": 0
+        },
+        {
+          "start": "2026-10-26",
+          "count": 0
+        },
+        {
+          "start": "2026-11-02",
+          "count": 2
+        },
+        {
+          "start": "2026-11-09",
+          "count": 6
+        },
+        {
+          "start": "2026-11-16",
+          "count": 6
+        }
+      ],
+      "days": [
+        {
+          "day": "2026-10-24",
+          "count": 0
+        },
+        {
+          "day": "2026-10-25",
+          "count": 0
+        },
+        {
+          "day": "2026-10-26",
+          "count": 0
+        },
+        {
+          "day": "2026-10-27",
+          "count": 0
+        },
+        {
+          "day": "2026-10-28",
+          "count": 0
+        },
+        {
+          "day": "2026-10-29",
+          "count": 0
+        },
+        {
+          "day": "2026-10-30",
+          "count": 0
+        },
+        {
+          "day": "2026-10-31",
+          "count": 0
+        },
+        {
+          "day": "2026-11-01",
+          "count": 0
+        },
+        {
+          "day": "2026-11-02",
+          "count": 0
+        },
+        {
+          "day": "2026-11-03",
+          "count": 0
+        },
+        {
+          "day": "2026-11-04",
+          "count": 0
+        },
+        {
+          "day": "2026-11-05",
+          "count": 0
+        },
+        {
+          "day": "2026-11-06",
+          "count": 2
+        },
+        {
+          "day": "2026-11-07",
+          "count": 0
+        },
+        {
+          "day": "2026-11-08",
+          "count": 0
+        },
+        {
+          "day": "2026-11-09",
+          "count": 0
+        },
+        {
+          "day": "2026-11-10",
+          "count": 0
+        },
+        {
+          "day": "2026-11-11",
+          "count": 0
+        },
+        {
+          "day": "2026-11-12",
+          "count": 5
+        },
+        {
+          "day": "2026-11-13",
+          "count": 1
+        },
+        {
+          "day": "2026-11-14",
+          "count": 0
+        },
+        {
+          "day": "2026-11-15",
+          "count": 0
+        },
+        {
+          "day": "2026-11-16",
+          "count": 5
+        },
+        {
+          "day": "2026-11-17",
+          "count": 0
+        },
+        {
+          "day": "2026-11-18",
+          "count": 1
+        },
+        {
+          "day": "2026-11-19",
+          "count": 0
+        },
+        {
+          "day": "2026-11-20",
+          "count": 0
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

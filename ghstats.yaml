@@ -1,0 +1,57 @@
+version: 1
+
+scope:
+  owners:
+    - Banes-dev
+  include_forks: false
+  include_archived: false
+  include_private: true
+  exclude_repos: []
+
+languages:
+  mode: raw
+  weights: {}
+  exclude: []
+  hide:
+    - Makefile
+    - Dockerfile
+  hidden_share: other
+  max_visible: 8
+  other_label: Other
+
+distribution:
+  release_assets: true
+  clones: true
+  views: true
+
+render:
+  blocks:
+    - stats: [totals, distribution]
+    - languages: [bars, treemap]
+    - history: [views, clones]
+  private_bar: true
+  languages:
+    colors: accent
+  theme:
+    preset: midnight
+    accent: ice
+  motion: true
+  layout: wide
+  base_path: ghstats/
+
+profile:
+  name: Banes-dev
+  tagline: GAMEPLAY · SOFTWARE · REAL-TIME
+  location: 42 Le Havre, France
+  note: Building systems, games and useful tools
+  focus:
+    - name: GAME DEVELOPMENT
+      building: [Unreal Engine, C++]
+    - name: SOFTWARE
+      building: [Applications, APIs]
+    - name: WEB
+      building: [React, TypeScript]
+  link_style: full
+  links:
+    - discord: "https://discord.com/users/532959488722862081"
+    - youtube: "@Banes_"

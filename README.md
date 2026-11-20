@@ -1,42 +1,74 @@
 <!---https://github.com/Ileriayo/markdown-badges-->
+<!---https://github.com/wewesss/ghstats-->
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="ghstats/identity-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="ghstats/identity-light.svg">
+    <img alt="Banes-dev" src="ghstats/identity-dark.svg" width="100%">
+  </picture>
+</p>
 
-# Banes-dev on Github
+<p align="center">
+  <a href="https://github.com/Banes-dev">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Banes-dev?style=for-the-badge&logo=github&label=Followers&color=9ec5ff&labelColor=111827">
+  </a>
+  <a href="https://www.youtube.com/@Banes_">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Banes__-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/532959488722862081">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
 
-🏫 Curently at 42 Le Havre
+## A propos
 
-🔎 Looking for a work-study programme in Unreal Engine / C++
+- Etudiant a **42 Le Havre**
+- Recherche une **alternance Unreal Engine / C++**
+- Construction d'applications, de moteurs de jeu et d'experiences interactives
+- Apprentissage actif de **C++**, **Unreal Engine**, **React** et du developpement logiciel
 
-👨‍💻 I'm actually learning Unreal Engine, C++ and React
+## GitHub
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="ghstats/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="ghstats/stats-light.svg">
+    <img alt="GitHub statistics" src="ghstats/stats-dark.svg" width="100%">
+  </picture>
+</p>
 
+## Stack
 
-## 🎨 My languagues : 
-![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,react,vue,tailwind,js,nextjs,vite,npm,bash,mysql,git,docker&perline=8)
+![Languages](https://skillicons.dev/icons?i=cpp,c,lua,js,ts,html,css,react,vue,nextjs,vite,tailwind,npm&perline=12)
 
+### Outils
 
-## 📊 Github Stats : 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Banes-dev&show_icons=true&theme=transparent&title_color=2f80ed&icon_color=ffff00&border_color=ffff00&text_color=ffffff#gh-dark-mode-only)
-<!-- ![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Banes-dev&show_icons=true&theme=transparent&title_color=2f80ed&icon_color=ffff00&border_color=ffff00&text_color=000000#gh-light-mode-only)-->
+![Tools](https://skillicons.dev/icons?i=git,docker,bash,mysql,postgres,vscode,rider,github,unreal,unity,qt,figma&perline=12)
 
-![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Banes-dev&show_icons=true&theme=transparent&title_color=2f80ed&icon_color=ffff00&border_color=ffff00&text_color=ffffff#gh-dark-mode-only)
-<!--![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Banes-dev&show_icons=true&theme=transparent&title_color=2f80ed&icon_color=ffff00&border_color=ffff00&text_color=000000#gh-light-mode-only)-->
+### Systeme
 
+![Systems](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,raspberrypi,apple&perline=6)
 
-## 🧩 My application : 
-![OS](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,raspberrypi,apple&perline=6)
+## Me contacter
 
-![APP](https://skillicons.dev/icons?i=vscode,rider,github,unreal,unity,qt=&perline=6)
+<p align="center">
+  <a href="https://discord.com/users/532959488722862081">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="ghstats/links/discord-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="ghstats/links/discord-light.svg">
+      <img alt="Discord" src="ghstats/links/discord-dark.svg">
+    </picture>
+  </a>
+  <a href="https://www.youtube.com/@Banes_">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="ghstats/links/youtube-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="ghstats/links/youtube-light.svg">
+      <img alt="YouTube" src="ghstats/links/youtube-dark.svg">
+    </picture>
+  </a>
+</p>
 
-![OTHER_APP](https://skillicons.dev/icons?i=notion,md,ps,figma,stackoverflow&perline=5)
-
-
-## 📩 Contact me
-[![DISCORD](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.com/users/532959488722862081) &nbsp;&nbsp;&nbsp;
-[![GMAIL](https://skillicons.dev/icons?i=gmail&theme=light)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMzPNWWQtGZPFQVKtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh) &nbsp;&nbsp;&nbsp;
-<!-- [![LINKEDIN](https://skillicons.dev/icons?i=linkedin&theme=light)]([https://discord.com/users/532959488722862081](https://www.linkedin.com/in/esteban-hay-95598a2b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJvkAC021QTSvMCVYqaRYzQ%3D%3D)) &nbsp;&nbsp;&nbsp; -->
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@Banes_)
-
-
-### ↓ Views ↓
-![Compteurdevue](https://komarev.com/ghpvc/?username=Banes-dev&color=yellow&style=flat&base=42&abbreviated=true)
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Banes-dev&color=9ec5ff&style=for-the-badge&base=42&abbreviated=true">
+</p>

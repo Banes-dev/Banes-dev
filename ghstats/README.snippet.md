@@ -1,0 +1,16 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="ghstats/identity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="ghstats/identity-light.svg">
+  <img alt="profile" src="ghstats/identity-dark.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="ghstats/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="ghstats/stats-light.svg">
+  <img alt="GitHub stats" src="ghstats/stats-dark.svg" width="100%">
+</picture>
+
+<p align="center">
+<a href="https://discord.com/users/532959488722862081"><picture><source media="(prefers-color-scheme: dark)" srcset="ghstats/links/discord-dark.svg"><source media="(prefers-color-scheme: light)" srcset="ghstats/links/discord-light.svg"><img alt="discord" src="ghstats/links/discord-dark.svg"></picture></a>
+<a href="https://www.youtube.com/@Banes_"><picture><source media="(prefers-color-scheme: dark)" srcset="ghstats/links/youtube-dark.svg"><source media="(prefers-color-scheme: light)" srcset="ghstats/links/youtube-light.svg"><img alt="youtube" src="ghstats/links/youtube-dark.svg"></picture></a>
+</p>

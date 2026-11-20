@@ -56,4 +56,4 @@ profile:
   links:
     - discord: "banes_"
     - youtube: "@Banes_"
-    - custom: {url: "https://mail.google.com/mail/u/0/#inbox", label: Email, icon: gmail}
+    - custom: {url: "https://mail.google.com/mail/u/0/#inbox", label: Email, icon: website}

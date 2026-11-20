@@ -13,8 +13,7 @@ languages:
   weights: {}
   exclude: []
   hide:
-    - Makefile
-    - Dockerfile
+    - Objective-C
   hidden_share: other
   max_visible: 8
   other_label: Other
@@ -27,22 +26,46 @@ distribution:
 render:
   blocks:
     - stats: [totals, distribution]
-    - languages: [bars, treemap]
-    - history: [views, clones]
   private_bar: true
   languages:
-    colors: accent
+    colors: spectrum
   theme:
-    preset: midnight
-    accent: ice
+    preset: carbon
+    accent: amber
   motion: true
-  layout: wide
+  layout: card
+  base_path: ghstats/
+
+render:
+  blocks:
+    - languages: [iso]
+  private_bar: true
+  languages:
+    colors: spectrum
+  theme:
+    preset: carbon
+    accent: amber
+  motion: true
+  layout: card
+  base_path: ghstats/
+
+render:
+  blocks:
+    - history: [views]
+  private_bar: true
+  languages:
+    colors: spectrum
+  theme:
+    preset: carbon
+    accent: amber
+  motion: true
+  layout: card
   base_path: ghstats/
 
 profile:
   name: Banes-dev
   tagline: GAMEPLAY · SOFTWARE · REAL-TIME
-  location: 42 Le Havre, France
+  location: 42, France
   note: Building systems, games and useful tools
   focus:
     - name: GAME DEVELOPMENT
@@ -53,5 +76,7 @@ profile:
       building: [React, TypeScript]
   link_style: full
   links:
-    - discord: "https://discord.com/users/532959488722862081"
+    - discord: "banes_"
     - youtube: "@Banes_"
+    - custom: {url: "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh", label: Email, icon: Gmail}
+    

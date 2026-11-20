@@ -1,15 +1,15 @@
 <!---https://github.com/Ileriayo/markdown-badges-->
 <!---https://github.com/wewesss/ghstats-->
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="ghstats/identity-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="ghstats/identity-light.svg">
     <img alt="Banes-dev" src="ghstats/identity-dark.svg" width="100%">
   </picture>
-</p>
+</p> -->
 
-## About me
+## 👋 About me
 
 - 🏫 Curently at 42 Le Havre
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 I'm actually learning Unreal Engine, C++ and React
 
-## Stats
+## 📊 Stats
 
 <p align="center">
   <picture>
@@ -27,6 +27,8 @@
   </picture>
 </p>
 
+
+## 💼 Stacks
 ### 🎨 Languagues
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,react,vue,tailwind,js,nextjs,vite,npm,bash,mysql,git,docker&perline=10)
@@ -56,10 +58,24 @@
       <img alt="YouTube" src="ghstats/links/youtube-dark.svg">
     </picture>
   </a>
+  <a href="hhttps://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="ghstats/links/gmail-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="ghstats/links/gmail-light.svg">
+      <img alt="Gmail" src="ghstats/links/gmail-dark.svg">
+    </picture>
+  </a>
 </p>
 
 ## 👀 Views
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="ghstats/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="ghstats/stats-light.svg">
+    <img alt="GitHub statistics" src="ghstats/stats-dark.svg" width="100%">
+  </picture>
+</p>
 
 ---
 

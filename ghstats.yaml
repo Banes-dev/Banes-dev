@@ -26,31 +26,7 @@ distribution:
 render:
   blocks:
     - stats: [totals, distribution]
-  private_bar: true
-  languages:
-    colors: spectrum
-  theme:
-    preset: carbon
-    accent: amber
-  motion: true
-  layout: card
-  base_path: ghstats/
-
-render:
-  blocks:
     - languages: [iso]
-  private_bar: true
-  languages:
-    colors: spectrum
-  theme:
-    preset: carbon
-    accent: amber
-  motion: true
-  layout: card
-  base_path: ghstats/
-
-render:
-  blocks:
     - history: [views]
   private_bar: true
   languages:
@@ -78,5 +54,4 @@ profile:
   links:
     - discord: "banes_"
     - youtube: "@Banes_"
-    - custom: {url: "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh", label: Email, icon: Gmail}
-    
+    - custom: {url: "https://mail.google.com/mail/u/0/#inbox", label: Email, icon: gmail}

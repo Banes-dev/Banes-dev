@@ -9,8 +9,10 @@ scope:
   exclude_repos: []
 
 languages:
-  mode: raw
-  weights: {}
+  mode: adjusted
+  weights:
+    C: 0.50
+    Lua: 2.00
   exclude: []
   hide:
     - Objective-C

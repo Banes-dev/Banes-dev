@@ -12,9 +12,12 @@ jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref }}
+          fetch-depth: 1
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           repository: Banes-dev/ghstats-data
           path: ghstats-data

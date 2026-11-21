@@ -49,6 +49,7 @@ render:
   private_bar: true
   languages:
     colors: spectrum
+    weighting : false
   theme:
     preset: carbon
     accent: amber

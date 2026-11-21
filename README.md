@@ -20,13 +20,8 @@
 ## 📊 Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="ghstats/stats-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="ghstats/stats-light.svg">
-    <img alt="GitHub stats" src="ghstats/stats-dark.svg" width="100%">
-  </picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="ghstats/totals-dark.svg"><source media="(prefers-color-scheme: light)" srcset="ghstats/totals-light.svg"><img alt="GitHub stats: totals" src="ghstats/totals-dark.svg" width="42%"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="ghstats/languages-dark.svg"><source media="(prefers-color-scheme: light)" srcset="ghstats/languages-light.svg"><img alt="GitHub stats: languages" src="ghstats/languages-dark.svg" width="42%"></picture>
 </p>
-
 
 ## 💼 Stacks
 ### 🎨 Languagues
@@ -48,21 +43,21 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="ghstats/links/discord-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="ghstats/links/discord-light.svg">
-      <img alt="Discord" src="ghstats/links/discord-dark.svg">
+      <img alt="Discord" src="ghstats/links/discord-dark.svg" width="14%">
     </picture>
   </a>
   <a href="https://www.youtube.com/@Banes_">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="ghstats/links/youtube-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="ghstats/links/youtube-light.svg">
-      <img alt="YouTube" src="ghstats/links/youtube-dark.svg">
+      <img alt="YouTube" src="ghstats/links/youtube-dark.svg" width="15%">
     </picture>
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="ghstats/links/custom-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="ghstats/links/custom-light.svg">
-      <img alt="Gmail" src="ghstats/links/custom-dark.svg">
+      <img alt="Gmail" src="ghstats/links/custom-dark.svg" width="13%">
     </picture>
   </a>
 </p>
@@ -71,8 +66,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="ghstats/stats-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="ghstats/stats-light.svg">
-    <img alt="GitHub statistics" src="ghstats/stats-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="ghstats/history-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="ghstats/history-light.svg">
+    <img alt="GitHub statistics" src="ghstats/history-dark.svg" width="44%">
   </picture>
 </p>

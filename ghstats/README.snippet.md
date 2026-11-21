@@ -1,13 +1,15 @@
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="ghstats/totals-dark.svg"><source media="(prefers-color-scheme: light)" srcset="ghstats/totals-light.svg"><img alt="GitHub stats: totals" src="ghstats/totals-dark.svg" width="49%"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="ghstats/languages-dark.svg"><source media="(prefers-color-scheme: light)" srcset="ghstats/languages-light.svg"><img alt="GitHub stats: languages" src="ghstats/languages-dark.svg" width="49%"></picture>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="ghstats/distribution-dark.svg"><source media="(prefers-color-scheme: light)" srcset="ghstats/distribution-light.svg"><img alt="GitHub stats: distribution" src="ghstats/distribution-dark.svg" width="49%"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="ghstats/history-dark.svg"><source media="(prefers-color-scheme: light)" srcset="ghstats/history-light.svg"><img alt="GitHub stats: history" src="ghstats/history-dark.svg" width="49%"></picture>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="ghstats/identity-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="ghstats/identity-light.svg">
   <img alt="profile" src="ghstats/identity-dark.svg" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="ghstats/stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="ghstats/stats-light.svg">
-  <img alt="GitHub stats" src="ghstats/stats-dark.svg" width="100%">
 </picture>
 
 <p align="center">

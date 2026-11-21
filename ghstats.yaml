@@ -16,7 +16,7 @@ languages:
   exclude: []
   hide:
     - Objective-C
-  hidden_share: other
+  hidden_share: renormalize
   max_visible: 5
   other_label: Other
 
@@ -26,10 +26,24 @@ distribution:
   views: true
 
 render:
-  blocks:
-    - stats: [totals, distribution]
-    - languages: [iso]
-    - history: [views]
+  cards:
+    - name: totals
+      blocks:
+        - stats: [totals]
+    - name: languages
+      blocks:
+        - languages: [iso]
+    - name: distribution
+      blocks:
+        - stats: [distribution]
+    - name: history
+      blocks:
+        - history: [views]
+  rows:
+    - align: center
+      items: [totals, languages]
+    - align: center
+      items: [distribution, history]
   private_bar: true
   languages:
     colors: spectrum

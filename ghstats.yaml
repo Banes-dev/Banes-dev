@@ -16,7 +16,8 @@ languages:
   exclude: []
   hide:
     - Objective-C
-  hidden_share: renormalize
+    - M4
+  hidden_share: other
   max_visible: 5
   other_label: Other
 

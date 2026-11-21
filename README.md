@@ -52,21 +52,21 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="ghstats/links/discord-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="ghstats/links/discord-light.svg">
-      <img alt="Discord" src="ghstats/links/discord-dark.svg" width="20%">
+      <img alt="Discord" src="ghstats/links/discord-dark.svg" width="21%">
     </picture>
   </a>
   <a href="https://www.youtube.com/@Banes_">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="ghstats/links/youtube-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="ghstats/links/youtube-light.svg">
-      <img alt="YouTube" src="ghstats/links/youtube-dark.svg" width="21%">
+      <img alt="YouTube" src="ghstats/links/youtube-dark.svg" width="22%">
     </picture>
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="ghstats/links/custom-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="ghstats/links/custom-light.svg">
-      <img alt="Gmail" src="ghstats/links/custom-dark.svg" width="18%">
+      <img alt="Gmail" src="ghstats/links/custom-dark.svg" width="19%">
     </picture>
   </a>
 </p>

@@ -11,12 +11,13 @@ scope:
 languages:
   mode: adjusted
   weights:
-    C: 0.30
+    C: 0.25
     Lua: 4.00
   exclude: []
   hide:
     - Objective-C
     - M4
+    - m4
   hidden_share: other
   max_visible: 5
   other_label: Other

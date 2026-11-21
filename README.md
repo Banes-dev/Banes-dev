@@ -5,7 +5,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="ghstats/identity-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="ghstats/identity-light.svg">
-    <img alt="Banes-dev" src="ghstats/identity-dark.svg" width="100%">
+    <img alt="profile" src="ghstats/identity-dark.svg" width="100%">
   </picture>
 </p> -->
 
@@ -23,7 +23,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="ghstats/stats-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="ghstats/stats-light.svg">
-    <img alt="GitHub statistics" src="ghstats/stats-dark.svg" width="100%">
+    <img alt="GitHub stats" src="ghstats/stats-dark.svg" width="100%">
   </picture>
 </p>
 
@@ -60,9 +60,9 @@
   </a>
   <a href="hhttps://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtRsJBMrCDGwqHMtPQTKvTKSNkmvLtSSJtbMPhkwJsWstRbHMdNGkTh">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="ghstats/links/gmail-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="ghstats/links/gmail-light.svg">
-      <img alt="Gmail" src="ghstats/links/gmail-dark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="ghstats/links/custom-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="ghstats/links/custom-light.svg">
+      <img alt="Gmail" src="ghstats/links/custom-dark.svg">
     </picture>
   </a>
 </p>

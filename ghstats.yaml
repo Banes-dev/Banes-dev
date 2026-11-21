@@ -11,13 +11,13 @@ scope:
 languages:
   mode: adjusted
   weights:
-    C: 0.50
-    Lua: 2.00
+    C: 0.30
+    Lua: 4.00
   exclude: []
   hide:
     - Objective-C
   hidden_share: other
-  max_visible: 8
+  max_visible: 5
   other_label: Other
 
 distribution:
@@ -37,7 +37,7 @@ render:
     preset: carbon
     accent: amber
   motion: true
-  layout: card
+  layout: wide
   base_path: ghstats/
 
 profile:
@@ -54,6 +54,6 @@ profile:
       building: [React, TypeScript]
   link_style: full
   links:
-    - discord: "banes_"
+    - discord: {url: "https://discord.com/users/532959488722862081", label: banes_}
     - youtube: "@Banes_"
     - custom: {url: "https://mail.google.com/mail/u/0/#inbox", label: Email, icon: website}

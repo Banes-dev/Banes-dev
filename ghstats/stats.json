@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T19:14:47.377731055Z",
-  "collected_at": "2026-11-21T19:14:42.972128276Z",
+  "generated_at": "2026-11-22T11:27:20.02141116Z",
+  "collected_at": "2026-11-22T11:27:14.621490469Z",
   "login": "Banes-dev",
   "totals": {
     "repos": 35,
@@ -371,27 +371,27 @@
     },
     {
       "channel": "clones",
-      "count": 258,
+      "count": 393,
       "window": "last_14_days",
       "reliability": "observed",
       "note": "summed across repositories; unique visitors are not summed"
     },
     {
       "channel": "clones",
-      "count": 283,
+      "count": 435,
       "window": "since:2026-10-23",
       "reliability": "observed"
     },
     {
       "channel": "views",
-      "count": 13,
+      "count": 15,
       "window": "last_14_days",
       "reliability": "observed",
       "note": "summed across repositories; unique visitors are not summed"
     },
     {
       "channel": "views",
-      "count": 15,
+      "count": 17,
       "window": "since:2026-10-23",
       "reliability": "observed"
     },
@@ -509,14 +509,10 @@
         },
         {
           "start": "2026-11-16",
-          "count": 174
+          "count": 326
         }
       ],
       "days": [
-        {
-          "day": "2026-10-25",
-          "count": 2
-        },
         {
           "day": "2026-10-26",
           "count": 0
@@ -623,6 +619,10 @@
         },
         {
           "day": "2026-11-21",
+          "count": 152
+        },
+        {
+          "day": "2026-11-22",
           "count": 0
         }
       ]
@@ -732,14 +732,10 @@
         },
         {
           "start": "2026-11-16",
-          "count": 7
+          "count": 9
         }
       ],
       "days": [
-        {
-          "day": "2026-10-25",
-          "count": 0
-        },
         {
           "day": "2026-10-26",
           "count": 0
@@ -846,6 +842,10 @@
         },
         {
           "day": "2026-11-21",
+          "count": 2
+        },
+        {
+          "day": "2026-11-22",
           "count": 0
         }
       ]

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T12:58:02.735457511Z",
-  "collected_at": "2026-11-25T12:57:56.475159782Z",
+  "generated_at": "2026-11-26T12:37:13.209627776Z",
+  "collected_at": "2026-11-26T12:37:05.488768355Z",
   "login": "Banes-dev",
   "totals": {
     "repos": 35,
@@ -371,20 +371,20 @@
     },
     {
       "channel": "clones",
-      "count": 491,
+      "count": 499,
       "window": "last_14_days",
       "reliability": "observed",
       "note": "summed across repositories; unique visitors are not summed"
     },
     {
       "channel": "clones",
-      "count": 574,
+      "count": 601,
       "window": "since:2026-10-23",
       "reliability": "observed"
     },
     {
       "channel": "views",
-      "count": 22,
+      "count": 17,
       "window": "last_14_days",
       "reliability": "observed",
       "note": "summed across repositories; unique visitors are not summed"
@@ -509,14 +509,10 @@
         },
         {
           "start": "2026-11-23",
-          "count": 76
+          "count": 103
         }
       ],
       "days": [
-        {
-          "day": "2026-10-29",
-          "count": 0
-        },
         {
           "day": "2026-10-30",
           "count": 0
@@ -623,6 +619,10 @@
         },
         {
           "day": "2026-11-25",
+          "count": 27
+        },
+        {
+          "day": "2026-11-26",
           "count": 0
         }
       ]
@@ -737,10 +737,6 @@
       ],
       "days": [
         {
-          "day": "2026-10-29",
-          "count": 0
-        },
-        {
           "day": "2026-10-30",
           "count": 0
         },
@@ -846,6 +842,10 @@
         },
         {
           "day": "2026-11-25",
+          "count": 0
+        },
+        {
+          "day": "2026-11-26",
           "count": 0
         }
       ]
